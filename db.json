@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"name": "EyeTrek",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"latest": true,
 			"url": "http://example.com/apks/1.0.0.apk",
 			"updateInfo": "Initial release",
