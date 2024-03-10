@@ -2,7 +2,7 @@
 	"apks": [
 		{
 			"id": 1,
-			"name": "MyApp",
+			"name": "EyeTrek",
 			"version": "1.0.1",
 			"latest": true,
 			"url": "http://example.com/apks/1.0.0.apk",
